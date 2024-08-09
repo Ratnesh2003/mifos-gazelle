@@ -4,7 +4,7 @@ dependencies:
   version: 19.0.2
 - name: console
   repository: https://charts.redpanda.com
-  version: 0.6.6
+  version: 0.7.28
 - name: mongodb
   repository: https://charts.bitnami.com/bitnami
   version: 13.3.1
@@ -20,5 +20,5 @@ dependencies:
 - name: mysql
   repository: https://charts.bitnami.com/bitnami
   version: 9.4.5
-digest: sha256:7ba3ea9a03eaa2abafee8c647e7976a22d7b82ad48fdd2a9dfbaa3bb65bbf910
-generated: "2023-09-06T11:55:49.830694633Z"
+digest: sha256:90c96fd8f74a564171e1f333eaa890ad7af34233e7d883221ccc88207bd9f5d5
+generated: "2024-08-09T03:17:27.866521195Z"
